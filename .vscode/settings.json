@@ -1,0 +1,5 @@
+{
+    "editor.quickSuggestions": false,
+    "sde.buildOnSave": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
